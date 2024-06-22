@@ -36,7 +36,7 @@ Implement custom ScrollView for enhanced scrolling behavior and user experience,
 ![Screenshot 7](IMG-20240330-WA0007.jpg)
 ![Screenshot 6](IMG-20240330-WA0006.jpg)
 ![Screenshot 5](IMG-20240330-WA0005.jpg)
-
+working of the app -> https://www.linkedin.com/posts/aditya-das-745043285_socialsync-kotlinapp-mobiledevelopment-activity-7180187738741108736-hQPa?utm_source=share&utm_medium=member_desktop
 
 
 
