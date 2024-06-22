@@ -26,6 +26,16 @@ Integrate Marlon Lomeli's TimeAgo library for convenient and dynamic time format
 7.Custom UI Components:
 Implement custom ScrollView for enhanced scrolling behavior and user experience, ensuring smooth navigation through feeds and profiles.
 ![Screenshot 1](IMG-20240330-WA0015.jpg)
+![Screenshot 2](IMG-20240330-WA0014.jpg)
+![Screenshot 3](IMG-20240330-WA0013.jpg)
+![Screenshot 4](IMG-20240330-WA0012.jpg)
+![Screenshot 5](IMG-20240330-WA0011.jpg)
+![Screenshot 6](IMG-20240330-WA0010.jpg)
+![Screenshot 7](IMG-20240330-WA0009.jpg)
+![Screenshot 8](IMG-20240330-WA0008.jpg)
+![Screenshot 7](IMG-20240330-WA0007.jpg)
+![Screenshot 6](IMG-20240330-WA0006.jpg)
+![Screenshot 5](IMG-20240330-WA0005.jpg)
 
 
 
