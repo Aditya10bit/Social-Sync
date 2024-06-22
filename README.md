@@ -25,6 +25,8 @@ Utilize Glide library for efficient image loading, caching, and displaying withi
 Integrate Marlon Lomeli's TimeAgo library for convenient and dynamic time formatting, enabling relative timestamps for content (e.g., "2 hours ago").
 7.Custom UI Components:
 Implement custom ScrollView for enhanced scrolling behavior and user experience, ensuring smooth navigation through feeds and profiles.
+![Screenshot 1](IMG-20240330-WA0015.jpg)
+
 
 
 
